@@ -1,0 +1,60 @@
+text{
+  color: antiquewhite;
+}
+.Logo {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dYZHejZNsPHxV0VYJYeQgFtaAPbtJVmlKaRr--NlOA&s");
+}
+
+/* Home.css */
+
+/* Home.css */
+
+/* Center the h1 tag */
+h1 {
+  text-align: center;
+  color: white;
+  padding: 20px 0; /* Add padding to the top and bottom */
+}
+
+/* Add padding to the card container */
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; /* Adjust spacing between cards */
+  padding: 20px; /* Add padding around the card container */
+}
+
+/* Style for individual cards */
+.card {
+  width: calc(33.33% - 20px); /* Adjust width based on number of cards per row */
+  margin-bottom: 20px; /* Add space between rows */
+  margin-right: 20px; /* Add space between cards */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure the last card in each row doesn't have a right margin */
+.card:nth-child(3n) {
+  margin-right: 0;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Style for text content below the picture */
+.card h3 {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #c1bdbd; /* Text color */
+}
+
+.card p {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #ffffff; /* Text color */
+}
