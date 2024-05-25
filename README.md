@@ -1,3 +1,7 @@
+![Screenshot (246)](https://github.com/2126ReshmaB/Rentify/assets/118461173/b59385e2-1417-4a6b-bd3c-b394c32e8ce2)
+![Screenshot (247)](https://github.com/2126ReshmaB/Rentify/assets/118461173/b3260296-949e-44f5-9f36-3995f0371d22)
+![Screenshot (253)](https://github.com/2126ReshmaB/Rentify/assets/118461173/2ef25afc-b4fa-4932-adbc-12fbf62d7c9c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
